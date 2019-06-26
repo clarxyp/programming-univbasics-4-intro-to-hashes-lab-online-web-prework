@@ -3,7 +3,9 @@ def new_hash
 end
 
 def my_hash
-  
+  a_valid_hash = {
+    :created
+  }
 end
 
 def pioneer
