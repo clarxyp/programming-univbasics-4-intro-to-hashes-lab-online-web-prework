@@ -21,7 +21,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  Hash.new(:greeting, "Eh, what's up, Doc?")
+  {greeting, "Eh, what's up, Doc?"}
 end
 
 def read_from_hash(hash, key)
