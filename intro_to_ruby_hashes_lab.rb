@@ -5,7 +5,8 @@ end
 def my_hash
   a_valid_hash = {
     :name => "Bugs Bunny"
-    
+    :accent => "Brooklyn"
+    :
   }
 end
 
