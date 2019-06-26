@@ -15,7 +15,7 @@ def pioneer
 end
 
 def id_generator
-  badge = {
+  {
     :id => 846421688
   } 
 end
