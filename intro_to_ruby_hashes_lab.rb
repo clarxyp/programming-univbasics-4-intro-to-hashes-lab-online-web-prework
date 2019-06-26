@@ -1,15 +1,15 @@
 def new_hash
-  new_hash_method = Hash.new
+  Hash.new
 end
 
 def my_hash
-  a_valid_hash = {
+  {
     :name => "Bugs Bunny"
   }
 end
 
 def pioneer
-  pioneer = {
+  {
     :name => "Grace Hopper"
   }
 end
