@@ -4,7 +4,7 @@ end
 
 def my_hash
   a_valid_hash = {
-    :created
+    :name ==> "Bugs Bunny"
   }
 end
 
