@@ -21,7 +21,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  
+  catch_phrase = Hash.new()
 end
 
 def read_from_hash(hash, key)
