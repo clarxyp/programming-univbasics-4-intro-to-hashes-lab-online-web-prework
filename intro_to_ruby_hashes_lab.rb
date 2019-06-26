@@ -21,8 +21,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  catch_phrase = Hash.new
-  catch_phrase = (:greeting, "Eh, what's up, Doc?")
+  catch_phrase.new(greeting:, "Eh, what's up, Doc?")
 end
 
 def read_from_hash(hash, key)
