@@ -7,7 +7,7 @@ def my_hash
     :name => "Bugs Bunny"
     :accent => "Brooklyn"
     :fave_snack => "carrot"
-    :catch_phrase => ""
+    :catch_phrase => "What's up, Doc?"
   }
 end
 
