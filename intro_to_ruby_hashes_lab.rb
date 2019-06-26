@@ -16,7 +16,7 @@ end
 
 def id_generator
   badge = {
-    :key = "8464351228"
+    :key = 8464351228
   } 
 end
 
