@@ -15,7 +15,9 @@ def pioneer
 end
 
 def id_generator
-  
+  badge = {
+    :key = 8464351228
+  } 
 end
 
 def my_hash_creator(key, value)
